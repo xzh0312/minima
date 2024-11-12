@@ -3,7 +3,7 @@ layout: post
 title: "Advantages"
 categories: misc
 ---
-
+## Camera Perspectives
 <span style="font-size: 24px;">Camera Perspectives</span>
 
 ![pic](https://github.com/xzh0312/minima/blob/master/imgs/Advantage1.png?raw=true)
