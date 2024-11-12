@@ -5,17 +5,17 @@ categories: misc
 ---
 <div style="text-align: center;">
 
-## Camera Perspectives
-
 ![pic](https://github.com/xzh0312/minima/blob/master/imgs/Advantage1.png?raw=true)
-  
-## Environment
+
+<span style="font-size: 24px;">Camera Perspectives</span>
 
 ![pic](https://github.com/xzh0312/minima/blob/master/imgs/Advantage2.png?raw=true)
 
-## Crowd density
+<span style="font-size: 24px;">Environment</span>
 
 ![pic](https://github.com/xzh0312/minima/blob/master/imgs/Advantage3.png?raw=true)
+
+<span style="font-size: 24px;">Crowd density</span>
 
 </div>
 
