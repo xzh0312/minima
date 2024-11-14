@@ -4,7 +4,7 @@ title: "CrowdVerse: Boosting Crowd Understanding with a Realistic and Comprehens
 categories: misc
 ---
 
-![pic](https://github.com/xzh0312/minima/blob/master/imgs/CrowdVerse.png?raw=true){: .center50 }
+![pic](https://github.com/xzh0312/minima/blob/master/imgs/CrowdVerse.png?raw=true)
 
 ## Overviews
 
@@ -72,9 +72,9 @@ We predict the future 12 timestep trajectories (4.8 sec) given the historical 8 
 
 ### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/TrajectoryPredictionCases.png?raw=true)
 
-### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/model_sheet1.png?raw=true)
+### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/model_sheet1.png?raw=true){: .center80 }
 
-### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/model_sheet2.png?raw=true)
+### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/model_sheet2.png?raw=true){: .center80 }
 
 **1.4 Analysis**
 
@@ -168,7 +168,7 @@ Your evaluation should consider factors such as Accuracy, Fluency, Amount of inf
 
 ### 3. Social Interaction Detection <a id="section3"></a>
 
-![pic](https://github.com/xzh0312/minima/blob/master/imgs/Social_Interaction_Detection1.png?raw=true)
+![pic](https://github.com/xzh0312/minima/blob/master/imgs/Social_Interaction_Detection1.png?raw=true){: .center60 }
 
 **3.1 Baselines**
 
@@ -213,7 +213,7 @@ The table presents the experimental results of benchmark models on CrowdVerse. D
 
 **·BLIP-2:** BLIP-2 establishes an efficient bridge between vision encoders and large language models through a two-stage framework with a lightweight Q-Former serving as an interface between the vision encoder and language model, significantly reducing computational costs while maintaining performance.
 
-### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/Image_text_Retrieval1.png?raw=true)
+### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/Image_text_Retrieval1.png?raw=true){: .center100 }
 
 **4.2 Implementation Details**
 
@@ -246,7 +246,7 @@ We select hard negatives from two scenarios (classroom and marathon) from the pr
 
 ### 5. Background Segmentation <a id="section5"></a>
 
-### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/Background_Segmentation1.png?raw=true){:width="60%"}
+### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/Background_Segmentation1.png?raw=true){: .center60 }
 
 **5.1 Implementation Details**
 
@@ -279,7 +279,7 @@ Her expression is confident with a slight smile, and she stands with one hand on
 The vibrant yellow wall serves as a striking backdrop, contrasting nicely with her attire and enhancing the overall cheerful and lively vibe of the image.
 ```
 
-### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/Image_text_Generation1.png?raw=true)
+### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/Image_text_Generation1.png?raw=true){: .center60 }
 
 ```
 Description:
