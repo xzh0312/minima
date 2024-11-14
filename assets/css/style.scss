@@ -16,6 +16,34 @@
     width: 60%; /* 可选：调整宽度 */
 }
 
+.center70 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%; /* 可选：调整宽度 */
+}
+
+.center80 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%; /* 可选：调整宽度 */
+}
+
+.center90 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%; /* 可选：调整宽度 */
+}
+
+.center100 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; /* 可选：调整宽度 */
+}
+
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
