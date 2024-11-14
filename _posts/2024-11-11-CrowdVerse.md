@@ -4,7 +4,10 @@ title: "CrowdVerse: Boosting Crowd Understanding with a Realistic and Comprehens
 categories: misc
 ---
 
-![pic](https://github.com/xzh0312/minima/blob/master/imgs/CrowdVerse.png?raw=true)
+![pic](/imgs/CrowdVerse.png?raw=true)
+<p>
+  <img src = "/imgs/CrowdVerse.png">
+</p>
 
 ## Overviews
 
