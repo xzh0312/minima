@@ -72,9 +72,9 @@ We predict the future 12 timestep trajectories (4.8 sec) given the historical 8 
 
 ### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/TrajectoryPredictionCases.png?raw=true)
 
-### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/model_sheet1.png?raw=true){: .center80 }
+### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/model_sheet1.png?raw=true){: .center90 }
 
-### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/model_sheet2.png?raw=true){: .center80 }
+### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/model_sheet2.png?raw=true){: .center90 }
 
 **1.4 Analysis**
 
@@ -213,7 +213,7 @@ The table presents the experimental results of benchmark models on CrowdVerse. D
 
 **·BLIP-2:** BLIP-2 establishes an efficient bridge between vision encoders and large language models through a two-stage framework with a lightweight Q-Former serving as an interface between the vision encoder and language model, significantly reducing computational costs while maintaining performance.
 
-### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/Image_text_Retrieval1.png?raw=true){: .center100 }
+### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/Image_text_Retrieval1.png?raw=true){: .center80 }
 
 **4.2 Implementation Details**
 
@@ -221,7 +221,7 @@ We select five scenarios that encompass a rich variety of contexts, including ou
 
 **4.3 Experimental Results**
 
-### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/insert_sheet.png?raw=true)
+### ![pic](https://github.com/xzh0312/minima/blob/master/imgs/insert_sheet.png?raw=true){: .center90 }
 
 Retrieval results of scenario 1: **Classroom**.
 
